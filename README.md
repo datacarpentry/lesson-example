@@ -4,7 +4,7 @@ lesson-example
 This repository shows how to create a lesson using
 the [Software Carpentry lesson template][styles],
 and is itself an example of the use of that template.
-Please see <https://swcarpentry.github.io/lesson-example/>
+Please see <http://www.datacarpentry.org/lesson-example>
 for a rendered version of this material,
 including detailed instructions on design, setup, and formatting.
 
