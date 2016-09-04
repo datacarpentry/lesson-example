@@ -28,7 +28,7 @@ each of which has:
 The diagram below shows the internal structure of a single episode file
 (click on the image to see a larger version):
 
-<a href="../fig/episode-format.png"><img src="../fig/episode-format-small.png" alt="Formatting Rules" /></a>
+<a href="{{ page.root }}/fig/episode-format.png"><img src="{{ page.root }}/fig/episode-format-small.png" alt="Formatting Rules" /></a>
 
 ## Locations and Names
 
