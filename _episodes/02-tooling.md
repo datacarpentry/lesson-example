@@ -74,7 +74,7 @@ If authors want to write lessons in something else,
 such as [R Markdown][r-markdown],
 they must generate HTML or Markdown that [Jekyll][jekyll] can process
 and commit that to the repository.
-A [later episode]({{ site.github.url }}/04-formatting/) describes the Markdown we use.
+A [later episode]({{ page.root }}/04-formatting/) describes the Markdown we use.
 
 > ## Teaching Tools
 >
@@ -162,7 +162,7 @@ putting the extra files in `_extras` allows us to populate the "Extras" menu pul
 To clarify what will appear where,
 we store files that appear directly in the navigation bar
 in the root directory of the lesson.
-[The last episode]({{ site.github.url }}/03-organization/) describes these files.
+[The last episode]({{ page.root }}/03-organization/) describes these files.
 
 [github-importer]: https://import.github.com/
 [jekyll]: http://jekyllrb.com/

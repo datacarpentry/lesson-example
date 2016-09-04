@@ -47,7 +47,7 @@ in the published site.
 When referring to other episodes, use:
 
 {% raw %}
-    [link text]({{ site.github.url }}/dd-subject/)
+    [link text]({{ page.root }}/dd-subject/)
 {% endraw %}
 
 i.e., use the episode's directory path below the site root
