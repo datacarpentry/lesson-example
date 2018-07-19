@@ -10,6 +10,7 @@ objectives:
 keypoints:
 - "Lessons are design in four stages: conceptual, summative, formative, and connective."
 training: http://swcarpentry.github.io/instructor-training
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 
 This episode describes how we go about designing lessons and why.

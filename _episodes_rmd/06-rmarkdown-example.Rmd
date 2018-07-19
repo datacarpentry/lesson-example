@@ -9,6 +9,7 @@ objectives:
 - "Demonstrate how to include pieces of code, figures, and challenges."
 keypoints:
 - "It shouldn't be difficult"
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 This episode demonstrates all the features that can be used when writing a
 lesson in RMarkdown.

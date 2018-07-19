@@ -2,6 +2,7 @@
 layout: page
 title: "Licenses"
 permalink: /license/
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 ## Instructional Material
 

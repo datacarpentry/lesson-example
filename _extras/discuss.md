@@ -2,6 +2,7 @@
 layout: page
 title: Discussion
 permalink: /discuss/
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 Readers may be interested in:
 

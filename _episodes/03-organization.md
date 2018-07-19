@@ -12,6 +12,7 @@ keypoints:
 - "The README, authors' list, and citation instructions must be updated for each lesson."
 - "The home page, reference guide, setup instructions, discussion page, and instructors' guide must be updated for each lesson."
 - "The Makefile stores commonly-used commands."
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 
 Each lesson is made up of *episodes* that are 10-30 minutes long

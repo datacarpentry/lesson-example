@@ -2,6 +2,7 @@
 layout: page
 title: Setup
 permalink: /setup/
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 ## Setup Instructions for Actual Lessons
 

@@ -112,6 +112,7 @@ this page:
 ~~~
 ---
 name: Science
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 Today we are going to study {{page.name}}.
 ~~~

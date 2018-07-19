@@ -12,6 +12,7 @@ keypoints:
 - "Lessons are checked by running `make lesson-check`."
 - "The checker uses the same Markdown parser as Jekyll."
 - "Lessons can be previewed by running `make serve`."
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 
 The lesson template comes with several utilities to simplify lesson development and maintenance.

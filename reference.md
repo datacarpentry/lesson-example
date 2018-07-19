@@ -1,6 +1,7 @@
 ---
 layout: reference
 permalink: /reference/
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 
 ## Glossary

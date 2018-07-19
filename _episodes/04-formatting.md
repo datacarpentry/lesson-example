@@ -16,6 +16,7 @@ keypoints:
 - "Code blocks can be have the source, regular output, or error class."
 - "Special sections are formatted as blockquotes that open with a level-2 header and close with a class identifier."
 - "Special sections may be callouts or challenges; other styles are used by the template itself."
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 
 A lesson consists of one or more episodes,

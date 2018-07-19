@@ -1,6 +1,7 @@
 ---
 layout: lesson
 root: .
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 This lesson shows how to use the
 [Software Carpentry]({{ site.swc_site }}) and

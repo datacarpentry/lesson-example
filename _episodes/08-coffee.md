@@ -2,6 +2,7 @@
 layout: break
 title: "Coffee Break"
 break: 15
+redirect_to: https://carpentries.github.io/lesson-example
 ---
 
 Use the `break` layout for placeholder episodes representing coffee breaks and lunches.
